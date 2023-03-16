@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggx"]
+	path = ggx
+	url = https://github.com/brandmaier/ggx
+	shallow = true
+	registered = true
+[submodule "pdc"]
+	path = pdc
+	url = https://github.com/brandmaier/pdc
+	shallow = true
+	registered = true
+[submodule "semtree"]
+	path = semtree
+	url = https://github.com/brandmaier/semtree
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ggx",
+    "oncran": true
+  },
+  {
+    "package": "pdc",
+    "oncran": true
+  },
+  {
+    "package": "semtree",
+    "oncran": true
+  }
+]
