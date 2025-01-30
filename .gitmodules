@@ -8,6 +8,9 @@
 [submodule "pdc"]
 	path = pdc
 	url = https://github.com/brandmaier/pdc
+[submodule "reproducibleRchunks"]
+	path = reproducibleRchunks
+	url = https://github.com/brandmaier/reproduciblerchunks
 [submodule "semtree"]
 	path = semtree
 	url = https://github.com/brandmaier/semtree
